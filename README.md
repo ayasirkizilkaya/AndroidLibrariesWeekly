@@ -26,3 +26,22 @@
     A SeekBar suited for showing a preview of something. As seen in Google Play Movies.
 * ##### [RecyclerView Animators](https://github.com/wasabeef/recyclerview-animators) 
     Describe your animation and run !
+
+## Week #3
+
+* ##### [SlidingRootNav](https://github.com/yarolegovich/SlidingRootNav) 
+    A "drawer" is hidden under the content view, which can be shifted to make the drawer visible.
+* ##### [Typesetter](https://github.com/bignerdranch/Typesetter) 
+    it helps display changes to text positioning. (not a library but tool.)
+* ##### [JellyToolbar](https://github.com/Yalantis/JellyToolbar) 
+    Another awesome animated view from Yalantis.
+* ##### [Badger](https://github.com/volders/Badger) 
+    A library that is a badge for any drawable.
+* ##### [Isometric](https://github.com/FabianTerhorst/Isometric) 
+    Isometric drawing library for Android
+
+
+### Collaborators
+[iammert](https://github.com/iammert)
+[muratcanbur](github.com/muratcanbur)
+[yusufcakmak](https://github.com/yusufcakmak)
