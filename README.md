@@ -40,8 +40,21 @@
 * ##### [Isometric](https://github.com/FabianTerhorst/Isometric) 
     Isometric drawing library for Android
 
+## Week #4
+
+* ##### [IconSwitch](https://github.com/polyak01/IconSwitch) 
+    Custom Android Switch widget
+* ##### [Grav](https://github.com/glomadrian/Grav) 
+    Configurable animations based on points
+* ##### [Cropiwa](https://github.com/steelkiwi/cropiwa) 
+    Configurable Custom Crop widget for Android http://steelkiwi.com/
+* ##### [BubbleActions](https://github.com/SamThompson/BubbleActions) 
+    An open source implementation of the long press actions in the Pinterest app.
+* ##### [Animate](https://github.com/hitherejoe/animate) 
+    An application demoing meaningful motion on Android
+
 
 ### Collaborators
-[iammert](https://github.com/iammert)
-[muratcanbur](github.com/muratcanbur)
-[yusufcakmak](https://github.com/yusufcakmak)
+* [iammert](https://github.com/iammert)
+* [muratcanbur](github.com/muratcanbur)
+* [yusufcakmak](https://github.com/yusufcakmak)
