@@ -1,5 +1,5 @@
 # [Android Libraries Weekly Publication](https://medium.com/android-libraries-weekly)
-
+Android Libraries Weekly is a publication on Medium that helps you to follow range of libraries published by the Android community.
 
 ## Week #1
 
@@ -56,5 +56,5 @@
 
 ### Collaborators
 * [iammert](https://github.com/iammert)
-* [muratcanbur](github.com/muratcanbur)
+* [muratcanbur](https://github.com/muratcanbur)
 * [yusufcakmak](https://github.com/yusufcakmak)
