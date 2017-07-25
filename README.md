@@ -14,3 +14,15 @@
 * ##### [ExpectAnim](https://github.com/florent37/ExpectAnim) 
     Describe your animation and run !
 
+## Week #2
+
+* ##### [Android Snake Menu](https://github.com/xmuSistone/android-snake-menu) 
+    imitate Tumblr’s menu, dragging animations look like a snake
+* ##### [Lottie Android](https://github.com/airbnb/lottie-android) 
+    Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as json with Bodymovin and renders them natively on mobile!
+* ##### [Android SpinKit](https://github.com/ybq/Android-SpinKit) 
+    Android loading animations
+* ##### [Preview SeekBar](https://github.com/rubensousa/PreviewSeekBar) 
+    A SeekBar suited for showing a preview of something. As seen in Google Play Movies.
+* ##### [RecyclerView Animators](https://github.com/wasabeef/recyclerview-animators) 
+    Describe your animation and run !
