@@ -52,6 +52,18 @@ Android Libraries Weekly is a publication on Medium that helps you to follow ran
     An open source implementation of the long press actions in the Pinterest app.
 * ##### [Animate](https://github.com/hitherejoe/animate) 
     An application demoing meaningful motion on Android
+    
+
+## Week #5
+
+* ##### [VectorMaster](https://github.com/harjot-oberai/VectorMaster) 
+    This library introduces dynamic control over vector drawables. Each and every aspect of a vector drawable can be controlled dynamically (via Java instances), using this library.
+* ##### [FabulousFilter](https://github.com/Krupen/FabulousFilter) 
+    It makes animation of FloatingActionButton to BottomSheetDialog easy to implement.
+* ##### [AnimationsPlayground](https://github.com/mwajeeh/AnimationsPlayground) 
+* ##### [colorpicker](https://github.com/QuadFlask/colorpicker) 
+* ##### [glazy-viewpager](https://github.com/kannan-anbu/glazy-viewpager) 
+    ViewPager template with cool animation.
 
 
 ### Collaborators
