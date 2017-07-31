@@ -66,6 +66,20 @@ Android Libraries Weekly is a publication on Medium that helps you to follow ran
     ViewPager template with cool animation.
 
 
+## Week #6
+
+* ##### [SlidingRootNav](https://github.com/yarolegovich/SlidingRootNav) 
+    DrawerLayout-like ViewGroup, where a “drawer” is hidden under the content view, which can be shifted to make the drawer visible.
+* ##### [Phoenix](https://github.com/Yalantis/Phoenix) 
+    Phoenix Pull-to-Refresh
+* ##### [HueSeekBar](https://github.com/iammert/HueSeekBar) 
+    Yet another android seekbar inspired from Philips Hue app
+* ##### [RichPath](https://github.com/tarek360/RichPath) 
+    Rich Android Path. 🤡 Draw as you want. 🎉 Animate much as you can.
+* ##### [Backboard](https://github.com/tumblr/Backboard) 
+    A motion-driven animation framework for Android.
+
+
 ### Collaborators
 * [iammert](https://github.com/iammert)
 * [muratcanbur](https://github.com/muratcanbur)
